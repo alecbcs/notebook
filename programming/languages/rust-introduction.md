@@ -1,6 +1,15 @@
 # An Introduction to Rust
 (Note: This document was created as part of a class assignment.)
 
+## Table of Contents
+- [History and Current Status](#history-and-current-status)
+- [Paradigm](#paradigm)
+- [Typing System](#typing-system)
+- [Control Structures](#control-structures)
+- [Semantics](#semantics)
+- [Desirable Language Characteristics (Efficiency, Security)](#desirable-language-characteristics-(efficiency-security))
+- [**New!** Rust Project/Simulations!](#testing-rust)
+
 ### History and Current Status
 
 Rust began as the brain child of software engineer Graydon Hoare in 2006. While Hoare was working for Mozilla, the company adopted the project began funding the development of Rust in 2009. As a fun fact, Rust was first originally built off of the Ocaml language before it’s own compiler successfully compiled itself in 2011. Since 2016 the language has consistently been ranked the most loved programming language in Stack Overflow’s annual developer survey. 
