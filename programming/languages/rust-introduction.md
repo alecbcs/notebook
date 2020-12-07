@@ -7,7 +7,7 @@
 - [Typing System](#typing-system)
 - [Control Structures](#control-structures)
 - [Semantics](#semantics)
-- [Desirable Language Characteristics (Efficiency, Security)](#desirable-language-characteristics-(efficiency-security))
+- [Desirable Language Characteristics (Efficiency, Security)](#desirable-language-characteristics-efficiency-security)
 - [**New!** Rust Project/Simulations!](#testing-rust)
 
 ### History and Current Status
