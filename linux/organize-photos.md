@@ -6,6 +6,10 @@
 exiftool -r -d %Y/%m "-directory<datetimeoriginal" */*.jpeg
 ```
 
+#### Set File Modified Data to Original Photo Taken Time
+```bash
+exiftool "-FileModifyDate<DateTimeOriginal" "-FileModifyDate<DateTimeOriginal" *
+```
 
 
 #### Find and Remove Empty Directories After Import/Sort
